@@ -1,0 +1,13 @@
+C:\Users\Henry\source\temp\Search for letters\Search for letters\bin\Debug\netcoreapp3.1\Search for letters.exe
+C:\Users\Henry\source\temp\Search for letters\Search for letters\bin\Debug\netcoreapp3.1\Search for letters.deps.json
+C:\Users\Henry\source\temp\Search for letters\Search for letters\bin\Debug\netcoreapp3.1\Search for letters.runtimeconfig.json
+C:\Users\Henry\source\temp\Search for letters\Search for letters\bin\Debug\netcoreapp3.1\Search for letters.runtimeconfig.dev.json
+C:\Users\Henry\source\temp\Search for letters\Search for letters\bin\Debug\netcoreapp3.1\Search for letters.dll
+C:\Users\Henry\source\temp\Search for letters\Search for letters\bin\Debug\netcoreapp3.1\Search for letters.pdb
+C:\Users\Henry\source\temp\Search for letters\Search for letters\obj\Debug\netcoreapp3.1\Search for letters.csprojAssemblyReference.cache
+C:\Users\Henry\source\temp\Search for letters\Search for letters\obj\Debug\netcoreapp3.1\Search for letters.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\temp\Search for letters\Search for letters\obj\Debug\netcoreapp3.1\Search for letters.AssemblyInfoInputs.cache
+C:\Users\Henry\source\temp\Search for letters\Search for letters\obj\Debug\netcoreapp3.1\Search for letters.AssemblyInfo.cs
+C:\Users\Henry\source\temp\Search for letters\Search for letters\obj\Debug\netcoreapp3.1\Search for letters.dll
+C:\Users\Henry\source\temp\Search for letters\Search for letters\obj\Debug\netcoreapp3.1\Search for letters.pdb
+C:\Users\Henry\source\temp\Search for letters\Search for letters\obj\Debug\netcoreapp3.1\Search for letters.genruntimeconfig.cache
